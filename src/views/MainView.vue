@@ -25,7 +25,7 @@
       <div class="flex-1 w-full">
         <img 
           class="rounded-2xl shadow-2xl border-4 border-white dark:border-slate-800 transform hover:scale-105 transition-transform duration-300" 
-          src="http://googleusercontent.com/image_collection/image_retrieval/12308250781426813333_0" 
+          src="../assets/images/Main_page_image.webp" 
           alt="Desarrollo Web y Videojuegos"
         >
       </div>
