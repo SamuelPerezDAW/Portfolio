@@ -1,0 +1,55 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Torched",
+      "platform": "Nintendo Switch",
+      "company": "Nintai Studios",
+      "description": "Desarrollo de videojuego para Nintendo Switch.",
+      "route": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Torched-2925725.html"
+    },
+    {
+      "id": 2,
+      "title": "Proyecto en desarrollo",
+      "platform": "Nintendo Switch",
+      "company": "Nintai Studios",
+      "description": "Segundo título para la plataforma de Nintendo actualmente en desarrollo.",
+      "route": ""
+    }
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "role": "Desarrollador de Videojuegos",
+      "company": "Nintai Studios",
+      "period": "Actualidad",
+      "details": "Trabajo actual tras haber superado el periodo de prácticas.",
+      "route": "https://nintaistudios.com/"
+    },
+    {
+      "id": 2,
+      "role": "Informático",
+      "company": "Teidagua",
+      "period": "Prácticas",
+      "details": "Tareas de mantenimiento de sistemas y soporte técnico.",
+      "route": "https://www.teidagua.es/"
+    }
+  ],
+  "formation": [
+    { 
+      "id": 1, 
+      "title": "CSFP Desarrollo de Aplicaciones Web", 
+      "status": "En curso" 
+    },
+    { 
+      "id": 2, 
+      "title": "CSFP Desarrollo de Aplicaciones Multiplataforma", 
+      "status": "Completado" 
+    },
+    { 
+      "id": 3, 
+      "title": "CMFP Sistemas Microinformáticos & Redes", 
+      "status": "Completado" 
+    }
+  ]
+}
